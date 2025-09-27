@@ -5,10 +5,10 @@ Compile Time Caching in ``torch.compile``
 Introduction
 ------------------
 
-PyTorch Compiler provides several caching offerings to reduce compilation latency.
-This recipe will explain these offerings in detail to help users pick the best option for their use case.
+PyTorch Compiler는 컴파일 지연 시간을 줄이기 위해 여러 가지 캐싱 기능을 제공합니다.
+이 레시피에서는 이러한 기능들을 자세히 설명하여, 사용자가 자신의 활용 사례에 가장 적합한 옵션을 선택할 수 있도록 도와줍니다.
 
-Check out `Compile Time Caching Configurations <https://pytorch.org/tutorials/recipes/torch_compile_caching_configuration_tutorial.html>`__ for how to configure these caches.
+캐시를 설정하는 방법은 Compile Time Caching Configurations <https://pytorch.org/tutorials/recipes/torch_compile_caching_configuration_tutorial.html>를 참고하세요.
 
 Also check out our caching benchmark at `PT CacheBench Benchmarks <https://hud.pytorch.org/benchmark/llms?repoName=pytorch%2Fpytorch&benchmarkName=TorchCache+Benchmark>`__.
 
