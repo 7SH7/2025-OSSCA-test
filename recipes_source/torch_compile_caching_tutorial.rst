@@ -6,7 +6,7 @@ Introduction
 ------------------
 
 PyTorch Compiler는 컴파일 지연 시간을 줄이기 위해 여러 가지 캐싱 기능을 제공합니다.
-이 레시피에서는 이러한 기능들을 자세히 설명하여, 사용자가 자신의 활용 사례에 가장 적합한 옵션을 선택할 수 있도록 도와줍니다.
+이 예제에서는 이러한 기능들을 자세히 설명하여, 사용자가 자신의 활용 사례에 가장 적합한 옵션을 선택할 수 있도록 도와줍니다.
 
 캐시를 설정하는 방법은 Compile Time Caching Configurations <https://pytorch.org/tutorials/recipes/torch_compile_caching_configuration_tutorial.html>를 참고하세요.
 
